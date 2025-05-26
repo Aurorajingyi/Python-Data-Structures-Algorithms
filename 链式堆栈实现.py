@@ -1,21 +1,23 @@
 # 定义元素类型
 ElementType = int
 
+
 # 栈节点类
 class SNode:
-    def __init__(self, data:ElementType):
+    def __init__(self, data: ElementType):
         self.data = data
-        self.next = None # 定义指针
+        self.next = None  # 定义指针
+
 
 # 栈类
 class LinkedStack:
     def __init__(self):
-        self.head = SNode(None) # 头节点，head不存数据
+        self.head = SNode(None)  # 头节点，head不存数据
 
     def is_empty(self):
         return self.head.next is None
 
-    def push(self, item:ElementType):
+    def push(self, item: ElementType):
         # 不需要判断是否满
         new_node = SNode(item)
         new_node.next = self.head.next
@@ -39,15 +41,16 @@ class LinkedStack:
             return None
         return self.head.next.data
 
+
 # 测试代码
 if __name__ == "__main__":
     stack = LinkedStack()
     stack.push(1)
     stack.push(2)
     stack.push(3)
-    print("当前栈顶元素：", stack.top()) # 3
+    print("当前栈顶元素：", stack.top())  # 3
     stack.pop()
     stack.pop()
     stack.pop()
     # 后进先出
-    print("当前是否为空栈：",stack.is_empty())
+    print("当前是否为空栈：", stack.is_empty())
