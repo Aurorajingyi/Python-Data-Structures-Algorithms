@@ -31,6 +31,7 @@ class Solution:
         # 从根节点开始DFS遍历
         self.traverse(root)
         return self.minDepthValue
+
 if __name__ == "__main__":
     root = TreeNode(1)
     root.left = TreeNode(2)
