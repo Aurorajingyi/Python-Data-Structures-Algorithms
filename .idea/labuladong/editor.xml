@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditorlabuladong">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/AddTwoNumbers.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/AddTwoNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/AddTwoNumbers.py" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/AddTwoNumbersIi.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/AddTwoNumbersIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn445" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/AddTwoNumbersIi.py" />
+              <option name="titleSlug" value="add-two-numbers-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/FindAllAnagramsInAString.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/FindAllAnagramsInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn438" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/FindAllAnagramsInAString.py" />
+              <option name="titleSlug" value="find-all-anagrams-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/FindKPairsWithSmallestSums.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/FindKPairsWithSmallestSums.md" />
+              <option name="frontendQuestionId" value="leetcode.cn373" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/FindKPairsWithSmallestSums.py" />
+              <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/IntersectionOfTwoLinkedLists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/IntersectionOfTwoLinkedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn160" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/IntersectionOfTwoLinkedLists.py" />
+              <option name="titleSlug" value="intersection-of-two-linked-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/KthSmallestElementInASortedMatrix.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/KthSmallestElementInASortedMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.cn378" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/KthSmallestElementInASortedMatrix.py" />
+              <option name="titleSlug" value="kth-smallest-element-in-a-sorted-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LinkedListCycle.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/LinkedListCycle.md" />
+              <option name="frontendQuestionId" value="leetcode.cn141" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LinkedListCycle.py" />
+              <option name="titleSlug" value="linked-list-cycle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LinkedListCycleIi.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/LinkedListCycleIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn142" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LinkedListCycleIi.py" />
+              <option name="titleSlug" value="linked-list-cycle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LongestPalindromicSubstring.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/LongestPalindromicSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn5" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LongestPalindromicSubstring.py" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/LongestSubstringWithoutRepeatingCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.py" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3372" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.py" />
+              <option name="titleSlug" value="maximize-the-number-of-target-nodes-after-connecting-trees-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeKSortedLists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MergeKSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeKSortedLists.py" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeSortedArray.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MergeSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn88" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeSortedArray.py" />
+              <option name="titleSlug" value="merge-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeTwoSortedLists.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MergeTwoSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn21" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeTwoSortedLists.py" />
+              <option name="titleSlug" value="merge-two-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MiddleOfTheLinkedList.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MiddleOfTheLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn876" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MiddleOfTheLinkedList.py" />
+              <option name="titleSlug" value="middle-of-the-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MinimumWindowSubstring.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MinimumWindowSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn76" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MinimumWindowSubstring.py" />
+              <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MoveZeroes.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MoveZeroes.md" />
+              <option name="frontendQuestionId" value="leetcode.cn283" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MoveZeroes.py" />
+              <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PalindromeLinkedList.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/PalindromeLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn234" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PalindromeLinkedList.py" />
+              <option name="titleSlug" value="palindrome-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PartitionList.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/PartitionList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn86" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PartitionList.py" />
+              <option name="titleSlug" value="partition-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PermutationInString.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/PermutationInString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn567" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PermutationInString.py" />
+              <option name="titleSlug" value="permutation-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn26" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedArray.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedArrayIi.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedArrayIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn80" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedArrayIi.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedList.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn83" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedList.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedListIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn82" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveDuplicatesFromSortedListIi.py" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-list-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveElement.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/RemoveElement.md" />
+              <option name="frontendQuestionId" value="leetcode.cn27" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveElement.py" />
+              <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveNthNodeFromEndOfList.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/RemoveNthNodeFromEndOfList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn19" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/RemoveNthNodeFromEndOfList.py" />
+              <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseLinkedList.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/ReverseLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn206" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseLinkedList.py" />
+              <option name="titleSlug" value="reverse-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseLinkedListIi.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/ReverseLinkedListIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn92" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseLinkedListIi.py" />
+              <option name="titleSlug" value="reverse-linked-list-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseNodesInKGroup.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/ReverseNodesInKGroup.md" />
+              <option name="frontendQuestionId" value="leetcode.cn25" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseNodesInKGroup.py" />
+              <option name="titleSlug" value="reverse-nodes-in-k-group" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseString.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/ReverseString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn344" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ReverseString.py" />
+              <option name="titleSlug" value="reverse-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/SortColors.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/SortColors.md" />
+              <option name="frontendQuestionId" value="leetcode.cn75" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/SortColors.py" />
+              <option name="titleSlug" value="sort-colors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/SquaresOfASortedArray.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/SquaresOfASortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn977" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/SquaresOfASortedArray.py" />
+              <option name="titleSlug" value="squares-of-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/TwoSum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/TwoSum.py" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/TwoSumIiInputArrayIsSorted.md" />
+              <option name="frontendQuestionId" value="leetcode.cn167" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/TwoSumIiInputArrayIsSorted.py" />
+              <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/UglyNumberIi.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/UglyNumberIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn264" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/UglyNumberIi.py" />
+              <option name="titleSlug" value="ugly-number-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ValidPalindrome.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/ValidPalindrome.md" />
+              <option name="frontendQuestionId" value="leetcode.cn125" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/ValidPalindrome.py" />
+              <option name="titleSlug" value="valid-palindrome" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/[1]两数之和.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/TwoSum.py" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/[23]合并 K 个升序链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MergeKSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeKSortedLists.py" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/[3372]连接两棵树后最大目标节点数目 I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3372" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MaximizeTheNumberOfTargetNodesAfterConnectingTreesI.py" />
+              <option name="titleSlug" value="maximize-the-number-of-target-nodes-after-connecting-trees-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/[86]分隔链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/PartitionList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn86" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/PartitionList.py" />
+              <option name="titleSlug" value="partition-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../../../Leecode/leetcode/editor/cn/[23]合并 K 个升序链表.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/doc/content/MergeKSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../../../../Leecode/debug_/lc-plugin-template/python-template/leetcode/editor/cn/MergeKSortedLists.py" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
